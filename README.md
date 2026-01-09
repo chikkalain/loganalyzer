@@ -29,7 +29,6 @@ This hybrid approach reduces Mean Time to Resolution (MTTR) and enables more pro
 
 I welcome your feedback on integrating traditional diagnostic tools with large language models in support workflows.
 
-<img width="1376" height="768" alt="Support Diagnostics with a Hybrid AI   Open-Source Architecture" src="https://github.com/user-attachments/assets/4bd1c285-1ce0-4b38-a787-1f8110dbe277" />
 <img width="1376" height="768" alt="Pic1" src="https://github.com/user-attachments/assets/1a616192-0408-433a-a9a9-65d070d3c2d4" />
 
 
