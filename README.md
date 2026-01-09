@@ -29,9 +29,12 @@ This hybrid approach reduces Mean Time to Resolution (MTTR) and enables more pro
 
 <img width="1376" height="768" alt="Support Diagnostics with a Hybrid AI   Open-Source Architecture" src="https://github.com/user-attachments/assets/7216539a-45d0-43b7-af47-75ecb0f4c760" />
 
-<img width="1376" height="768" alt="Pic1" src="https://github.com/user-attachments/assets/1a616192-0408-433a-a9a9-65d070d3c2d4" />
 
 <img width="1484" height="682" alt="Screenshot 2026-01-06 201728" src="https://github.com/user-attachments/assets/b7f97a74-679f-4145-a2bf-72f782442ae6" />
+
+
+<img width="1376" height="768" alt="Pic1" src="https://github.com/user-attachments/assets/1a616192-0408-433a-a9a9-65d070d3c2d4" />
+
 
 #SRE hashtag#ArtificialIntelligence hashtag#Llama3 hashtag#SupportEngineering hashtag#Architecture hashtag#LogAnalysis hashtag#OpenSearch hashtag#DevOps
 
