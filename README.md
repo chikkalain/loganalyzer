@@ -81,7 +81,7 @@ A closer look at how data moves through the system and how it stays secure along
 ---
 
 ### Artifact Upload Interface
-![Upload UI](https://github.com/user-attachments/assets/5052a225-034c-48ef-a981-90a387cee1ef)
+<img width="1899" height="930" alt="image" src="https://github.com/user-attachments/assets/b0637151-4d8b-4cc8-9eff-985062fbae17" />
 
 The main upload screen gives engineers three ways to get artifacts into RADAR without friction. The Desktop Upload panel lets you pick a file, tie it to a case number, choose the product and file type, and submit. The Salesforce and Jira panels on the right fetch attachments directly by case number or Jira ID — no downloading required. Everything you need is reachable from the left sidebar without navigating away.
 
