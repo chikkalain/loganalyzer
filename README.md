@@ -10,7 +10,7 @@ The result: faster resolutions, less manual digging, and support engineers who c
 
 ### 1. Artifact Ingestion
 
-Engineers and systems can submit artifacts from three places:
+Engineers can submit artifacts from three places:
 
 - **Desktop upload** — drag and drop directly through the web client
 - **Salesforce** — files attached to an existing support case are pulled in automatically
